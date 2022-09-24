@@ -1,0 +1,1 @@
+﻿insert or replace into user (UserID, UserKey) values ('-', '-');

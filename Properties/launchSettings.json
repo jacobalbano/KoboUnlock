@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KoboUnlock": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\"
+    }
+  }
+}
